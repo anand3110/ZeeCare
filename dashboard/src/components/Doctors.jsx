@@ -11,7 +11,7 @@ const Doctors = () => {
     const fetchDoctors = async () => {
       try {
         const { data } = await axios.get(
-          "https://backend-zeecare.onrender.com/api/v1/user/doctors",
+          "https://zeecare360.onrender.com/api/v1/user/doctors",
           { withCredentials: true }
         );
         setDoctors(data.doctors);

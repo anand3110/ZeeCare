@@ -21,7 +21,7 @@ const App = () => {
     const fetchUser = async () => {
       try {
         const response = await axios.get(
-          "https://backend-zeecare.onrender.com/api/v1/user/admin/me",
+          "https://zeecare360.onrender.com/api/v1/user/admin/me",
           {
             withCredentials: true,
           }

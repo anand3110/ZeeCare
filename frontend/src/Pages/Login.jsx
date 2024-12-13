@@ -18,7 +18,7 @@ const Login = () => {
     try {
       await axios
         .post(
-          "https://backend-zeecare.onrender.com/api/v1/user/login",
+          "https://zeecare360.onrender.com/api/v1/user/login",
           { email, password, confirmPassword, role: "Patient" },
           {
             withCredentials: true,

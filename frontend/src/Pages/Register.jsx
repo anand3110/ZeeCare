@@ -23,7 +23,7 @@ const Register = () => {
   //   try {
   //     await axios
   //       .post(
-  //         "https://backend-zeecare.onrender.com/api/v1/user/patient/register",
+  //         "https://zeecare360.onrender.com/api/v1/user/patient/register",
   //         { firstName, lastName, email, phone, Aadhar, dob, gender, password },
   //         {
   //           withCredentials: true,
@@ -53,7 +53,7 @@ const Register = () => {
     try {
       await axios
         .post(
-          "https://backend-zeecare.onrender.com/api/v1/user/patient/register",
+          "https://zeecare360.onrender.com/api/v1/user/patient/register",
           { firstName, lastName, email, phone, Aadhar, dob, gender, password },
           {
             withCredentials: true,
