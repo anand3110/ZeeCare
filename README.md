@@ -19,5 +19,5 @@ From patient management to doctor management, CuraSys offers a robust platform t
 - **Security**: Implement robust security protocols to safeguard sensitive patient and hospital data.
 
 ## 🛠️ Technologies Used
-- **FrontEnd**: HTML, CSS, JavaScript, React
+- **FrontEnd**: HTML, CSS, JavaScript, React, Bootstrap
 - **BackEnd**: Node.js, Express.js, MongoDB
