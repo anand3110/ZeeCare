@@ -30,3 +30,10 @@ Ensure the following tools are installed:
 - [React](https://reactjs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://expressjs.com/)
+
+  ### 📦 Installation Steps
+
+1. **Clone the Repository**:
+
+```bash
+git clone https://github.com/yourusername/ZeeCare.git
