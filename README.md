@@ -37,3 +37,11 @@ Ensure the following tools are installed:
 
 ```bash
 git clone https://github.com/yourusername/ZeeCare.git
+cd ZeeCare
+cd backend
+npm i
+cd ../frontend
+npm i
+cd ../dashboard
+npm i
+npm run dev
