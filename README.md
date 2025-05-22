@@ -17,3 +17,16 @@ From patient management to doctor management, CuraSys offers a robust platform t
 - **Doctor Management**: Assign doctors to patients and manage their duties effectively across different departments.
 - **Reports and Analytics**: Generate in-depth reports and insights to support data-driven decision-making.
 - **Security**: Implement robust security protocols to safeguard sensitive patient and hospital data.
+
+## 🛠 Installation
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure the following tools are installed:
+
+- [Node.js](https://nodejs.org/)
+- [React](https://reactjs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Express](https://expressjs.com/)
