@@ -1,7 +1,7 @@
 # ZeeCare - Hospital Management System
 
 ## 🔗 Project Links
-- [[Project Link](https://zeecare-patient-portal.netlify.app/)](#)
+- [[Live Demo](https://zeecare-patient-portal.netlify.app/)](#)
 
 ## 📖 Overview
 
